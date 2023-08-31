@@ -1,0 +1,14 @@
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\remainder\remainder\bin\Debug\net6.0\remainder.exe
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\remainder\remainder\bin\Debug\net6.0\remainder.deps.json
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\remainder\remainder\bin\Debug\net6.0\remainder.runtimeconfig.json
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\remainder\remainder\bin\Debug\net6.0\remainder.dll
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\remainder\remainder\bin\Debug\net6.0\remainder.pdb
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\remainder\remainder\obj\Debug\net6.0\remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\remainder\remainder\obj\Debug\net6.0\remainder.AssemblyInfoInputs.cache
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\remainder\remainder\obj\Debug\net6.0\remainder.AssemblyInfo.cs
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\remainder\remainder\obj\Debug\net6.0\remainder.csproj.CoreCompileInputs.cache
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\remainder\remainder\obj\Debug\net6.0\remainder.dll
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\remainder\remainder\obj\Debug\net6.0\refint\remainder.dll
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\remainder\remainder\obj\Debug\net6.0\remainder.pdb
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\remainder\remainder\obj\Debug\net6.0\remainder.genruntimeconfig.cache
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\remainder\remainder\obj\Debug\net6.0\ref\remainder.dll
