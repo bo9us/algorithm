@@ -1,0 +1,14 @@
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\natural\natural\bin\Debug\net6.0\natural.exe
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\natural\natural\bin\Debug\net6.0\natural.deps.json
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\natural\natural\bin\Debug\net6.0\natural.runtimeconfig.json
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\natural\natural\bin\Debug\net6.0\natural.dll
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\natural\natural\bin\Debug\net6.0\natural.pdb
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\natural\natural\obj\Debug\net6.0\natural.GeneratedMSBuildEditorConfig.editorconfig
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\natural\natural\obj\Debug\net6.0\natural.AssemblyInfoInputs.cache
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\natural\natural\obj\Debug\net6.0\natural.AssemblyInfo.cs
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\natural\natural\obj\Debug\net6.0\natural.csproj.CoreCompileInputs.cache
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\natural\natural\obj\Debug\net6.0\natural.dll
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\natural\natural\obj\Debug\net6.0\refint\natural.dll
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\natural\natural\obj\Debug\net6.0\natural.pdb
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\natural\natural\obj\Debug\net6.0\natural.genruntimeconfig.cache
+C:\U3Work\Cwork\ConsoleApp3\Joah_CsharpStudy\Heegeon\natural\natural\obj\Debug\net6.0\ref\natural.dll
