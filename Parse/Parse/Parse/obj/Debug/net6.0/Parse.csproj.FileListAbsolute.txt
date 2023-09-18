@@ -1,0 +1,14 @@
+C:\algorithm\Parse\Parse\Parse\bin\Debug\net6.0\Parse.exe
+C:\algorithm\Parse\Parse\Parse\bin\Debug\net6.0\Parse.deps.json
+C:\algorithm\Parse\Parse\Parse\bin\Debug\net6.0\Parse.runtimeconfig.json
+C:\algorithm\Parse\Parse\Parse\bin\Debug\net6.0\Parse.dll
+C:\algorithm\Parse\Parse\Parse\bin\Debug\net6.0\Parse.pdb
+C:\algorithm\Parse\Parse\Parse\obj\Debug\net6.0\Parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\algorithm\Parse\Parse\Parse\obj\Debug\net6.0\Parse.AssemblyInfoInputs.cache
+C:\algorithm\Parse\Parse\Parse\obj\Debug\net6.0\Parse.AssemblyInfo.cs
+C:\algorithm\Parse\Parse\Parse\obj\Debug\net6.0\Parse.csproj.CoreCompileInputs.cache
+C:\algorithm\Parse\Parse\Parse\obj\Debug\net6.0\Parse.dll
+C:\algorithm\Parse\Parse\Parse\obj\Debug\net6.0\refint\Parse.dll
+C:\algorithm\Parse\Parse\Parse\obj\Debug\net6.0\Parse.pdb
+C:\algorithm\Parse\Parse\Parse\obj\Debug\net6.0\Parse.genruntimeconfig.cache
+C:\algorithm\Parse\Parse\Parse\obj\Debug\net6.0\ref\Parse.dll
