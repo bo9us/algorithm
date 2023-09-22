@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "baekJoon4/1.0.0": {
+        "runtime": {
+          "baekJoon4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "baekJoon4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
