@@ -1,0 +1,14 @@
+C:\U3Work\Cwork\ConsoleApp3\algorithm\baekJoon\baekJoon7\baekJoon7\bin\Debug\net6.0\baekJoon7.exe
+C:\U3Work\Cwork\ConsoleApp3\algorithm\baekJoon\baekJoon7\baekJoon7\bin\Debug\net6.0\baekJoon7.deps.json
+C:\U3Work\Cwork\ConsoleApp3\algorithm\baekJoon\baekJoon7\baekJoon7\bin\Debug\net6.0\baekJoon7.runtimeconfig.json
+C:\U3Work\Cwork\ConsoleApp3\algorithm\baekJoon\baekJoon7\baekJoon7\bin\Debug\net6.0\baekJoon7.dll
+C:\U3Work\Cwork\ConsoleApp3\algorithm\baekJoon\baekJoon7\baekJoon7\bin\Debug\net6.0\baekJoon7.pdb
+C:\U3Work\Cwork\ConsoleApp3\algorithm\baekJoon\baekJoon7\baekJoon7\obj\Debug\net6.0\baekJoon7.GeneratedMSBuildEditorConfig.editorconfig
+C:\U3Work\Cwork\ConsoleApp3\algorithm\baekJoon\baekJoon7\baekJoon7\obj\Debug\net6.0\baekJoon7.AssemblyInfoInputs.cache
+C:\U3Work\Cwork\ConsoleApp3\algorithm\baekJoon\baekJoon7\baekJoon7\obj\Debug\net6.0\baekJoon7.AssemblyInfo.cs
+C:\U3Work\Cwork\ConsoleApp3\algorithm\baekJoon\baekJoon7\baekJoon7\obj\Debug\net6.0\baekJoon7.csproj.CoreCompileInputs.cache
+C:\U3Work\Cwork\ConsoleApp3\algorithm\baekJoon\baekJoon7\baekJoon7\obj\Debug\net6.0\baekJoon7.dll
+C:\U3Work\Cwork\ConsoleApp3\algorithm\baekJoon\baekJoon7\baekJoon7\obj\Debug\net6.0\refint\baekJoon7.dll
+C:\U3Work\Cwork\ConsoleApp3\algorithm\baekJoon\baekJoon7\baekJoon7\obj\Debug\net6.0\baekJoon7.pdb
+C:\U3Work\Cwork\ConsoleApp3\algorithm\baekJoon\baekJoon7\baekJoon7\obj\Debug\net6.0\baekJoon7.genruntimeconfig.cache
+C:\U3Work\Cwork\ConsoleApp3\algorithm\baekJoon\baekJoon7\baekJoon7\obj\Debug\net6.0\ref\baekJoon7.dll
